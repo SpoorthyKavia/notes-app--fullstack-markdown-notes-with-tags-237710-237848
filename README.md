@@ -1,1 +1,3 @@
-# notes-app--fullstack-markdown-notes-with-tags-237710-237848
+# Project Repository
+
+This is the initial README file for the project.
